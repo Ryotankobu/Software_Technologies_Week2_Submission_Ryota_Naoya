@@ -19,6 +19,7 @@ There are two members in this group
 
 #### Ryota Ando
 I'm a 3rd-year bachelor of IT student from Japan
+<br />
 I do a part-time work at The Star 
 
 
