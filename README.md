@@ -31,6 +31,10 @@ Conflict line from my local brabch
 Conflict line from my local brabch
 <br />
 Conflict line from my local brabch
+<br />
+Another conflict from my local repo
+<br />
+One more conflict from local
 
 
 
