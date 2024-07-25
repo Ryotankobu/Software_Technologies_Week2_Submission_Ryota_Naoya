@@ -21,3 +21,4 @@ There are two members in this group
 A 3rd year bachelor of IT student majoring software development
 
 ### Naoya Fukada
+A 3rd year bachelor of IT student majoring software development
