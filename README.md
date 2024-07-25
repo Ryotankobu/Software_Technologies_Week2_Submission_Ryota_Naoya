@@ -18,6 +18,7 @@ node index.js
 There are two members in this group
 
 #### Ryota Ando
+I'm a 3rd year bachelor of IT student
 
 
 
