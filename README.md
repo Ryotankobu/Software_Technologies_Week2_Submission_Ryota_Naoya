@@ -20,6 +20,6 @@ There are two members in this group
 #### Ryota Ando
 A 3rd-year bachelor of IT student majoring software development.
 Doing a part time work at The Star ,usually as a swing shift worker.
-
+New lines
 
 #### Naoya Fukada
