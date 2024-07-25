@@ -18,7 +18,8 @@ node index.js
 There are two members in this group
 
 #### Ryota Ando
-I'm a 3rd year bachelor of IT student
+My name is Ryota and I'm from Japan.
+I'm a bachelor student doing IT at Griffith
 
 
 
