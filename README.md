@@ -25,6 +25,13 @@ I do a part-time work at The Star
 My name is Ryota and I'm from Japan.
 <br />
 I'm a bachelor student doing IT at Griffith
+<br />
+Conflict line from my local brabch
+<br />
+Conflict line from my local brabch
+<br />
+Conflict line from my local brabch
+
 
 
 
