@@ -18,23 +18,6 @@ node index.js
 There are two members in this group
 
 #### Ryota Ando
-I'm a 3rd-year bachelor of IT student from Japan
-<br />
-I do a part-time work at The Star 
-<br />
-My name is Ryota and I'm from Japan.
-<br />
-I'm a bachelor student doing IT at Griffith
-<br />
-Conflict line from my local brabch
-<br />
-Conflict line from my local brabch
-<br />
-Conflict line from my local brabch
-<br />
-Another conflict from my local repo
-<br />
-One more conflict from local
 
 
 
