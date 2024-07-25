@@ -19,6 +19,7 @@ There are two members in this group
 
 #### Ryota Ando
 First line which I made in remote
+Second line which I made in local editting_branch
 
 
 
