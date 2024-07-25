@@ -1,0 +1,1 @@
+# Software_Technologies_Week2_Submission_Ryota_Naoya
