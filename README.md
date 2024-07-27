@@ -20,9 +20,7 @@ There are two members in this group
 
 #### Ryota Ando
 
-First line which I made in remote
-<br />
-Second line which I made in local editting_branch
+My name is Ryota and I'm a 3rd year bachelor of IT student at Griffith University.
 
 #### Naoya Fukada
 
